@@ -1,0 +1,12 @@
+# data and downloads
+data/
+download_ckpts/
+*.tar
+
+# checkpoints
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
